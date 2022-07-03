@@ -1,0 +1,33 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+.header{
+         
+          background-image: url(pics/portfolio\ pic/top-banner.png);
+          background-repeat: no-repeat;
+          
+          float: left;
+          border: 1px solid;
+}
+.half-width{
+          width: 45%;
+          float: left;
+          padding: 5%;
+         
+}
+
+.profile1{
+          width: 100%;
+          border-radius: 4%;
+}
+h1{
+          color: black;
+          font-weight: 2rem;
+}
+.h2-d:hover{
+          transform: scale(5px 5px);
+          color: blueviolet;
+
+}
